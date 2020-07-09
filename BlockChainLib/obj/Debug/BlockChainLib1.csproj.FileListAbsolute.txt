@@ -1,0 +1,2 @@
+E:\ELTE\002 conferences\2020-09 ESORICS - Digital Humanities\800 src\ProofOfStake\BlockChainLib1\obj\Debug\BlockChainLib1.csprojAssemblyReference.cache
+E:\ELTE\002 conferences\2020-09 ESORICS - Digital Humanities\800 src\ProofOfStake\BlockChainLib1\obj\Debug\BlockChainLib1.csproj.CoreCompileInputs.cache
